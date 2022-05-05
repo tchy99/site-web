@@ -130,15 +130,15 @@ background: url(Main.png) center;
     margin-bottom: 20px;
 }
 #step-1{
-    background: url(../imageSiteWeb/StepsIcon1.png) no-repeat top center;
+    background: url(StepsIcon1.png) no-repeat top center;
 }
 
 #step-2{
-    background: url(../imageSiteWeb/StepsIcon2.png) no-repeat top center;
+    background: url(StepsIcon2.png) no-repeat top center;
 }
 
 #step-3{
-    background: url(../imageSiteWeb/StepsIcon3.png) no-repeat top center;
+    background: url(StepsIcon3.png) no-repeat top center;
 }
 
 /*possibilities*/
